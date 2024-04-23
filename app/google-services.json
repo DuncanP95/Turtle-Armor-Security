@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661049963548",
+    "project_id": "turtle-armor-security",
+    "storage_bucket": "turtle-armor-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661049963548:android:fab652a75a22acedf25bd9",
+        "android_client_info": {
+          "package_name": "com.example.turtlearmorsecurity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAem1FssD0BG6cNSYAnG3jsm1Unhtz_hUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
